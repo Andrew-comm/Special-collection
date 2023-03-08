@@ -1,0 +1,15 @@
+.c-item{
+    height: 400px;
+    width: 100%;
+
+}
+.c-img{
+    height: 100%;
+    border: 1px solid black;
+    object-fit: cover;
+
+}
+.carousel-caption{
+    text-decoration: aqua;
+    color: blueviolet;
+}
